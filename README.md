@@ -1,0 +1,2 @@
+# PropensityToConvert
+Propensity models make true predictions about a customer’s future behavior. With propensity models you can truly anticipate a customers’ future behavior.  Here we focus on building a combination of a Propensity to convert and a Propensity to buy model that can influence the kind of marketing campaigns we adopt and who we decide to target (predicted converters vs non-converters) leading to spend optimizations that eventually increase the ROI on digital marketing campaigns.
