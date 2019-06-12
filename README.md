@@ -6,7 +6,7 @@ The 80/20 rule has proven true for many businesses–only a small percentage of 
 
 In this project, I analyzed a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict based on the web behavior of consumers on the Google Merchadise Online store, their likelihood or propensity to convert. 
 
-Propensity models make true predictions about a customer’s future behavior. With propensity models you can truly anticipate a customers’ future behavior.
+Propensity models make true predictions about a customer’s future behavior. With propensity models you can truly anticipate a customer's future behavior.
 
 Here we focus on building a combination of a Propensity to convert and a Propensity to buy model that can influence the kind of marketing campaigns we adopt and who we decide to target (predicted converters vs non-converters) leading to spend optimizations that eventually increase the ROI on digital marketing campaigns. 
 
