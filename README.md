@@ -80,10 +80,10 @@ The dataset contains multiple columns which contain JSON blobs of varying depth.
 # Workflow
 
 1. [Pre-processing Pipeline to be Applied to the Data](#Preprocesing)
-    * Hits and customDimensions do not have data that is relevant to predicting the target variable. Droping these columns:
+    * Hits and customDimensions do not have data that is relevant to predicting the target variable.
     * normalizing the columns in json format and appending columns to original dataframe
     * Creating training label from the 'totals.transactionRevenue' column
-    * Separating the converter and non-converter data to adress the class imbalance later in the processing pipeline
+    * Separating the converter and non-converter data to address the class imbalance later in the processing pipeline
 1. [Iterating Over the Data in Chunks Using nrows and skiprows](#BatchProcessing)
 1. [Addressing Class Imbalance](#ClassImb)
     * Reading in all the data.
