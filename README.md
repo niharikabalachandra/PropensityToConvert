@@ -90,7 +90,7 @@ The dataset contains multiple columns which contain JSON blobs of varying depth.
     * Set seed for random sampling.
     * Downsampling (without replacement) the non-converter data to arrive at a sample size equal to that of the converter data.
     * Split dataset into training and universal test data
-    * Keep universal test data aside and ensure this data is noe present in future samples
+    * Keep universal test data aside and ensure this data is not present in future samples
     * Train model and save the model
     * Repeat steps 1-5 with different seeds to create many such training data draws.
     * Select model with heightest accuracy/ use weighted average of each model (based on accuracy) for prediction. Use same universal test dataset to determine accuracy of each model
