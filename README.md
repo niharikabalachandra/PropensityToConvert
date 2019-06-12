@@ -14,7 +14,7 @@ The goal of building such propensity models is to attain more actionable operati
 
 # Introduction
 
-Propensity models are what most people think of when they hear “predictive analytics” in the Marketing world. Propensity models make true predictions about a customer’s future behavior and help you truly anticipate a customers’ future behavior.
+Propensity models are what most people think of when they hear “predictive analytics” in the Marketing world. Propensity models make true predictions about a customer’s future behavior and help you truly anticipate a customer's future behavior.
 
 There are a number of types of Propensity models:
 
